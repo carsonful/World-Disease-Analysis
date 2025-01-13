@@ -1,17 +1,39 @@
-/* Chart container */
-.chart-container {
-    width: 100%;         /* Ensure the container takes up full width */
-    height: 400px;       /* Set a fixed height or make it dynamic as per your design */
-    position: relative;  /* Ensure that positioning works properly */
-}
-
-  /* Ensure the canvas fills the entire container */
-canvas {
-    width: 100% !important;  /* Make the canvas take the full width of the container */
-    height: 100% !important; /* Make the canvas take the full height of the container */
-}
 
 
 body {
     background-color: white;
+}
+.page-container {
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+    max-width: 1200px;
+    margin: 0 auto;
+    min-height: 100vh;
+}
+.button-container {
+    display: flex;
+    justify-content: center;
+    gap: 1rem;
+    padding: 20px;
+    width: 100%;
+}
+button {
+    padding: 10px 20px;
+    font-size: 16px;
+    cursor: pointer;
+    background-color: #4CAF50;
+    color: white;
+    border: none;
+    border-radius: 4px;
+}
+button:hover {
+    background-color: #45a049;
+}
+.graph-container {
+    width: 100%;
+    height: 80vh; /* Changed to viewport height */
+    min-height: 600px; /* Added minimum height */
+    padding: 20px;
+    box-sizing: border-box;
 }
