@@ -24,27 +24,27 @@ void countryHealth::loadData(string year){
     // 1. Country
     // 2. Year
     // 3. Disease Name
-    // 4. Disease Category
-    // 5. Prevalence Rate (%)
-    // 6. Incidence Rate (%)
-    // 7. Mortality Rate (%)
-    // 8. Age Group
-    // 9. Gender
-    // 10. Population Affected
-    // 11. Healthcare Access (%)
-    // 12. Doctors per 1000
-    // 13. Hospital Beds per 1000
-    // 14. Treatment Type
-    // 15. Average Treatment Cost (USD)
-    // 16. Availability of Vaccines/Treatment
-    // 17. Recovery Rate (%)
-    // 18. DALYs
-    // 19. Improvement in 5 Years (%)
-    // 20. Per Capita Income (USD)
-    // 21. Education Index
-    // 22. Urbanization Rate (%)
+    // 4. Disease Category 0 
+    // 5. Prevalence Rate (%) 1
+    // 6. Incidence Rate (%) 2
+    // 7. Mortality Rate (%) 3
+    // 8. Age Group 4 
+    // 9. Gender 5
+    // 10. Population Affected 6
+    // 11. Healthcare Access (%) 7 
+    // 12. Doctors per 1000 8 
+    // 13. Hospital Beds per 1000 9
+    // 14. Treatment Type 10
+    // 15. Average Treatment Cost (USD) 11
+    // 16. Availability of Vaccines/Treatment 12
+    // 17. Recovery Rate (%) 13
+    // 18. DALYs 14 
+    // 19. Improvement in 5 Years (%) 15
+    // 20. Per Capita Income (USD) 16 
+    // 21. Education Index 17
+    // 22. Urbanization Rate (%) 18
     
-    string filename = "../Data/" + year + ".csv";
+    string filename = "../.data/" + year + ".csv";
     ifstream file(filename);
     string line;
     
@@ -73,21 +73,43 @@ void countryHealth::loadData(string year){
 
 
 // placeholder functions probably won't need later. 
-void countryHealth::getCommonDeaths(string disease){
-
-
+vector<pair<string, int>> countryHealth::getTotalDeaths(string& diseaseTotal){
+    vector<pair<string, int>> send;
+    for (const auto& outer : graph) {
+    const string& outer_key = outer.first;
+        int deaths = 0;
+        cout << outer_key << endl;
+        for (const auto& middle : outer.second) {
+            const string& middle_key = middle.first;
+            
+            for (const auto& inner : middle.second) {
+                const string& inner_key = inner.first;
+                const vector<string>& vec = inner.second;
+                
+                // Check if vector has at least 3 elements before accessing
+                    string third_element = vec[6];
+                    deaths += stoi(third_element);
+                    // Do something with third_element
+                    
+            }
+            cout << "Total Affected | " << deaths << endl;
+        }
+        send.push_back({outer_key, deaths});
+    }
+    return send;
 
 }
 
 
 
-void countryHealth::writeData(){
-
-
-
-
-
-
+void countryHealth::writeData() {
+    string filePath = "../front-end/pages/data.json";
+    ofstream outFile(filePath, ios::trunc);
+    
+    if (!outFile.is_open()) {
+        throw runtime_error("Could not open file: " + filePath);
+    }
+        
 }
 
 
@@ -111,4 +133,13 @@ void countryHealth::printGraph() {
         }
         cout << endl;
     }
+}
+
+pair<string, set<pair<string, int>>> countryHealth::sortData(){
+
+    
+
+
+
+
 }

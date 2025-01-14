@@ -14,18 +14,19 @@ int main(int argc, char *argv[]){
 
     // ./a {argument (year) passed}
     // ./a 2016 
-    cout << argv[1] << endl;; // Going to be the year 
 
     countryHealth data;
+    if(argv[1] == ""){return -1;}
+    cout << argv[1] << endl;; // Going to be the year 
 
     data.loadData(string(argv[1]));
-    data.loadData("2011");
-
-
     // Do something with the loaded data such as json, csv, or txt that we can read in JS/TS
-    data.printGraph();
 
+    string popAffected;
+    data.writeData(data.getTotalDeaths(popAffected));
+    //data.printGraph();
 
+    
     
 
 

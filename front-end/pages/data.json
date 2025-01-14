@@ -1,9 +1,162 @@
 [
-    { "label": "January", "value": 65 },
-    { "label": "February", "value": 59 },
-    { "label": "March", "value": 80 },
-    { "label": "April", "value": 81 },
-    { "label": "May", "value": 56 },
-    { "label": "June", "value": 55 },
-    { "label": "July", "value": 40 }
+    { 
+        "label": "France", 
+        "diseases": [
+            { "name": "Disease A", "value": 9819557 },
+            { "name": "Disease B", "value": 10200000 },
+            { "name": "Disease C", "value": 9500000 }
+        ]
+    },
+    { 
+        "label": "India", 
+        "diseases": [
+            { "name": "Disease A", "value": 10481314 },
+            { "name": "Disease B", "value": 11000000 },
+            { "name": "Disease C", "value": 11500000 }
+        ]
+    },
+    { 
+        "label": "Russia", 
+        "diseases": [
+            { "name": "Disease A", "value": 8638262 },
+            { "name": "Disease B", "value": 8700000 },
+            { "name": "Disease C", "value": 9000000 }
+        ]
+    },
+    { 
+        "label": "Japan", 
+        "diseases": [
+            { "name": "Disease A", "value": 13306014 },
+            { "name": "Disease B", "value": 14000000 },
+            { "name": "Disease C", "value": 13000000 }
+        ]
+    },
+    { 
+        "label": "Indonesia", 
+        "diseases": [
+            { "name": "Disease A", "value": 9845060 },
+            { "name": "Disease B", "value": 10000000 },
+            { "name": "Disease C", "value": 10500000 }
+        ]
+    },
+    { 
+        "label": "China", 
+        "diseases": [
+            { "name": "Disease A", "value": 12080318 },
+            { "name": "Disease B", "value": 13000000 },
+            { "name": "Disease C", "value": 12500000 }
+        ]
+    },
+    { 
+        "label": "Italy", 
+        "diseases": [
+            { "name": "Disease A", "value": 9525939 },
+            { "name": "Disease B", "value": 9800000 },
+            { "name": "Disease C", "value": 9400000 }
+        ]
+    },
+    { 
+        "label": "Canada", 
+        "diseases": [
+            { "name": "Disease A", "value": 11653653 },
+            { "name": "Disease B", "value": 12000000 },
+            { "name": "Disease C", "value": 11800000 }
+        ]
+    },
+    { 
+        "label": "Argentina", 
+        "diseases": [
+            { "name": "Disease A", "value": 9198823 },
+            { "name": "Disease B", "value": 9500000 },
+            { "name": "Disease C", "value": 9100000 }
+        ]
+    },
+    { 
+        "label": "Saudi Arabia", 
+        "diseases": [
+            { "name": "Disease A", "value": 9040213 },
+            { "name": "Disease B", "value": 9200000 },
+            { "name": "Disease C", "value": 9100000 }
+        ]
+    },
+    { 
+        "label": "Australia", 
+        "diseases": [
+            { "name": "Disease A", "value": 8185784 },
+            { "name": "Disease B", "value": 8500000 },
+            { "name": "Disease C", "value": 8100000 }
+        ]
+    },
+    { 
+        "label": "Turkey", 
+        "diseases": [
+            { "name": "Disease A", "value": 11871999 },
+            { "name": "Disease B", "value": 12000000 },
+            { "name": "Disease C", "value": 11900000 }
+        ]
+    },
+    { 
+        "label": "UK", 
+        "diseases": [
+            { "name": "Disease A", "value": 9444865 },
+            { "name": "Disease B", "value": 9500000 },
+            { "name": "Disease C", "value": 9400000 }
+        ]
+    },
+    { 
+        "label": "Nigeria", 
+        "diseases": [
+            { "name": "Disease A", "value": 10297157 },
+            { "name": "Disease B", "value": 10500000 },
+            { "name": "Disease C", "value": 10100000 }
+        ]
+    },
+    { 
+        "label": "Mexico", 
+        "diseases": [
+            { "name": "Disease A", "value": 10122189 },
+            { "name": "Disease B", "value": 10200000 },
+            { "name": "Disease C", "value": 10000000 }
+        ]
+    },
+    { 
+        "label": "Germany", 
+        "diseases": [
+            { "name": "Disease A", "value": 12167034 },
+            { "name": "Disease B", "value": 12300000 },
+            { "name": "Disease C", "value": 12000000 }
+        ]
+    },
+    { 
+        "label": "USA", 
+        "diseases": [
+            { "name": "Disease A", "value": 10734074 },
+            { "name": "Disease B", "value": 11000000 },
+            { "name": "Disease C", "value": 10600000 }
+        ]
+    },
+    { 
+        "label": "Brazil", 
+        "diseases": [
+            { "name": "Disease A", "value": 11189838 },
+            { "name": "Disease B", "value": 11500000 },
+            { "name": "Disease C", "value": 11000000 }
+        ]
+    },
+    { 
+        "label": "South Korea", 
+        "diseases": [
+            { "name": "Disease A", "value": 9096067 },
+            { "name": "Disease B", "value": 9200000 },
+            { "name": "Disease C", "value": 9100000 }
+        ]
+    },
+    { 
+        "label": "South Africa", 
+        "diseases": [
+            { "name": "Disease B", "value": 10172183 },
+            { "name": "Disease A", "value": -1000 },
+            { "name": "Disease C", "value": 10100000 }
+        ]
+    }
 ]
