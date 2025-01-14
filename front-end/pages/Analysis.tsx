@@ -58,7 +58,7 @@ export default function Analysis() {
   };
 
   // Render the correct chart based on the selected chart type
-  let chartComponent;
+  let chartComponent: any;
   switch (chartType) {
     case 'pie':
       chartComponent = <Pie key="pie" ref={chartRef} data={chartData} />;
