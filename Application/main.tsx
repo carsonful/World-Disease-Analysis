@@ -8,7 +8,6 @@ import NotFoundPage from './pages/NotFoundPage';
 
 
 import { createBrowserRouter, RouterProvider } from 'react-router-dom';
-import './index.css';
 
 
 const router = createBrowserRouter([
