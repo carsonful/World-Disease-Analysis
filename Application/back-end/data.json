@@ -1,0 +1,1702 @@
+[
+    {
+        "label": "Turkey",
+        "diseases": [
+            {
+                "name": "Alzheimer's Disease",
+                "value": 305265
+            },
+            {
+                "name": "Asthma",
+                "value": 805392
+            },
+            {
+                "name": "COVID-19",
+                "value": 308063
+            },
+            {
+                "name": "Cancer",
+                "value": 262016
+            },
+            {
+                "name": "Cholera",
+                "value": 419686
+            },
+            {
+                "name": "Dengue",
+                "value": 305629
+            },
+            {
+                "name": "Diabetes",
+                "value": 501801
+            },
+            {
+                "name": "Ebola",
+                "value": 115600
+            },
+            {
+                "name": "HIV/AIDS",
+                "value": 446905
+            },
+            {
+                "name": "Hepatitis",
+                "value": 307356
+            },
+            {
+                "name": "Hypertension",
+                "value": 736127
+            },
+            {
+                "name": "Influenza",
+                "value": 430912
+            },
+            {
+                "name": "Leprosy",
+                "value": 871916
+            },
+            {
+                "name": "Malaria",
+                "value": 447967
+            },
+            {
+                "name": "Measles",
+                "value": 554729
+            },
+            {
+                "name": "Parkinson's Disease",
+                "value": 234664
+            },
+            {
+                "name": "Polio",
+                "value": 681232
+            },
+            {
+                "name": "Rabies",
+                "value": 691409
+            },
+            {
+                "name": "Tuberculosis",
+                "value": 580875
+            },
+            {
+                "name": "Zika",
+                "value": 3277
+            }
+        ]
+    },
+    {
+        "label": "France",
+        "diseases": [
+            {
+                "name": "Alzheimer's Disease",
+                "value": 621992
+            },
+            {
+                "name": "Asthma",
+                "value": 208457
+            },
+            {
+                "name": "COVID-19",
+                "value": 263843
+            },
+            {
+                "name": "Cancer",
+                "value": 128065
+            },
+            {
+                "name": "Cholera",
+                "value": 832840
+            },
+            {
+                "name": "Dengue",
+                "value": 518960
+            },
+            {
+                "name": "Diabetes",
+                "value": 727455
+            },
+            {
+                "name": "Ebola",
+                "value": 108560
+            },
+            {
+                "name": "HIV/AIDS",
+                "value": 433288
+            },
+            {
+                "name": "Hepatitis",
+                "value": 993999
+            },
+            {
+                "name": "Hypertension",
+                "value": 337122
+            },
+            {
+                "name": "Influenza",
+                "value": 550352
+            },
+            {
+                "name": "Leprosy",
+                "value": 144145
+            },
+            {
+                "name": "Malaria",
+                "value": 989275
+            },
+            {
+                "name": "Measles",
+                "value": 43477
+            },
+            {
+                "name": "Parkinson's Disease",
+                "value": 724829
+            },
+            {
+                "name": "Polio",
+                "value": 35615
+            },
+            {
+                "name": "Rabies",
+                "value": 749096
+            },
+            {
+                "name": "Tuberculosis",
+                "value": 988913
+            },
+            {
+                "name": "Zika",
+                "value": 147742
+            }
+        ]
+    },
+    {
+        "label": "Argentina",
+        "diseases": [
+            {
+                "name": "Alzheimer's Disease",
+                "value": 10155
+            },
+            {
+                "name": "Asthma",
+                "value": 397143
+            },
+            {
+                "name": "COVID-19",
+                "value": 330470
+            },
+            {
+                "name": "Cancer",
+                "value": 327187
+            },
+            {
+                "name": "Cholera",
+                "value": 240442
+            },
+            {
+                "name": "Dengue",
+                "value": 578146
+            },
+            {
+                "name": "Diabetes",
+                "value": 715554
+            },
+            {
+                "name": "Ebola",
+                "value": 729914
+            },
+            {
+                "name": "HIV/AIDS",
+                "value": 362961
+            },
+            {
+                "name": "Hepatitis",
+                "value": 991657
+            },
+            {
+                "name": "Hypertension",
+                "value": 138628
+            },
+            {
+                "name": "Influenza",
+                "value": 519852
+            },
+            {
+                "name": "Leprosy",
+                "value": 442537
+            },
+            {
+                "name": "Malaria",
+                "value": 68045
+            },
+            {
+                "name": "Measles",
+                "value": 725366
+            },
+            {
+                "name": "Parkinson's Disease",
+                "value": 757419
+            },
+            {
+                "name": "Polio",
+                "value": 265774
+            },
+            {
+                "name": "Rabies",
+                "value": 121236
+            },
+            {
+                "name": "Tuberculosis",
+                "value": 866860
+            },
+            {
+                "name": "Zika",
+                "value": 402496
+            }
+        ]
+    },
+    {
+        "label": "Saudi Arabia",
+        "diseases": [
+            {
+                "name": "Alzheimer's Disease",
+                "value": 984335
+            },
+            {
+                "name": "Asthma",
+                "value": 659302
+            },
+            {
+                "name": "COVID-19",
+                "value": 94204
+            },
+            {
+                "name": "Cancer",
+                "value": 324168
+            },
+            {
+                "name": "Cholera",
+                "value": 616281
+            },
+            {
+                "name": "Dengue",
+                "value": 143442
+            },
+            {
+                "name": "Diabetes",
+                "value": 556582
+            },
+            {
+                "name": "Ebola",
+                "value": 944484
+            },
+            {
+                "name": "HIV/AIDS",
+                "value": 68421
+            },
+            {
+                "name": "Hepatitis",
+                "value": 936119
+            },
+            {
+                "name": "Hypertension",
+                "value": 600741
+            },
+            {
+                "name": "Influenza",
+                "value": 18364
+            },
+            {
+                "name": "Leprosy",
+                "value": 681288
+            },
+            {
+                "name": "Malaria",
+                "value": 177353
+            },
+            {
+                "name": "Measles",
+                "value": 701162
+            },
+            {
+                "name": "Parkinson's Disease",
+                "value": 119332
+            },
+            {
+                "name": "Polio",
+                "value": 205363
+            },
+            {
+                "name": "Rabies",
+                "value": 473142
+            },
+            {
+                "name": "Tuberculosis",
+                "value": 416219
+            },
+            {
+                "name": "Zika",
+                "value": 260581
+            }
+        ]
+    },
+    {
+        "label": "Canada",
+        "diseases": [
+            {
+                "name": "Alzheimer's Disease",
+                "value": 965540
+            },
+            {
+                "name": "Asthma",
+                "value": 40007
+            },
+            {
+                "name": "COVID-19",
+                "value": 815395
+            },
+            {
+                "name": "Cancer",
+                "value": 637588
+            },
+            {
+                "name": "Cholera",
+                "value": 601172
+            },
+            {
+                "name": "Dengue",
+                "value": 768169
+            },
+            {
+                "name": "Diabetes",
+                "value": 549307
+            },
+            {
+                "name": "Ebola",
+                "value": 425024
+            },
+            {
+                "name": "HIV/AIDS",
+                "value": 443763
+            },
+            {
+                "name": "Hepatitis",
+                "value": 270107
+            },
+            {
+                "name": "Hypertension",
+                "value": 314996
+            },
+            {
+                "name": "Influenza",
+                "value": 6078
+            },
+            {
+                "name": "Leprosy",
+                "value": 929307
+            },
+            {
+                "name": "Malaria",
+                "value": 538233
+            },
+            {
+                "name": "Measles",
+                "value": 175376
+            },
+            {
+                "name": "Parkinson's Disease",
+                "value": 10798
+            },
+            {
+                "name": "Polio",
+                "value": 794360
+            },
+            {
+                "name": "Rabies",
+                "value": 87687
+            },
+            {
+                "name": "Tuberculosis",
+                "value": 749036
+            },
+            {
+                "name": "Zika",
+                "value": 886825
+            }
+        ]
+    },
+    {
+        "label": "UK",
+        "diseases": [
+            {
+                "name": "Alzheimer's Disease",
+                "value": 867872
+            },
+            {
+                "name": "Asthma",
+                "value": 811130
+            },
+            {
+                "name": "COVID-19",
+                "value": 467432
+            },
+            {
+                "name": "Cancer",
+                "value": 748256
+            },
+            {
+                "name": "Cholera",
+                "value": 816709
+            },
+            {
+                "name": "Dengue",
+                "value": 875407
+            },
+            {
+                "name": "Diabetes",
+                "value": 72219
+            },
+            {
+                "name": "Ebola",
+                "value": 850189
+            },
+            {
+                "name": "HIV/AIDS",
+                "value": 612830
+            },
+            {
+                "name": "Hepatitis",
+                "value": 271884
+            },
+            {
+                "name": "Hypertension",
+                "value": 205462
+            },
+            {
+                "name": "Influenza",
+                "value": 296006
+            },
+            {
+                "name": "Leprosy",
+                "value": 959629
+            },
+            {
+                "name": "Malaria",
+                "value": 287407
+            },
+            {
+                "name": "Measles",
+                "value": 515095
+            },
+            {
+                "name": "Parkinson's Disease",
+                "value": 636382
+            },
+            {
+                "name": "Polio",
+                "value": 988131
+            },
+            {
+                "name": "Rabies",
+                "value": 972448
+            },
+            {
+                "name": "Tuberculosis",
+                "value": 44934
+            },
+            {
+                "name": "Zika",
+                "value": 201909
+            }
+        ]
+    },
+    {
+        "label": "South Korea",
+        "diseases": [
+            {
+                "name": "Alzheimer's Disease",
+                "value": 299425
+            },
+            {
+                "name": "Asthma",
+                "value": 652073
+            },
+            {
+                "name": "COVID-19",
+                "value": 203668
+            },
+            {
+                "name": "Cancer",
+                "value": 331325
+            },
+            {
+                "name": "Cholera",
+                "value": 232699
+            },
+            {
+                "name": "Dengue",
+                "value": 60953
+            },
+            {
+                "name": "Diabetes",
+                "value": 697871
+            },
+            {
+                "name": "Ebola",
+                "value": 848415
+            },
+            {
+                "name": "HIV/AIDS",
+                "value": 866214
+            },
+            {
+                "name": "Hepatitis",
+                "value": 760749
+            },
+            {
+                "name": "Hypertension",
+                "value": 415577
+            },
+            {
+                "name": "Influenza",
+                "value": 662023
+            },
+            {
+                "name": "Leprosy",
+                "value": 5730
+            },
+            {
+                "name": "Malaria",
+                "value": 853807
+            },
+            {
+                "name": "Measles",
+                "value": 533987
+            },
+            {
+                "name": "Parkinson's Disease",
+                "value": 991816
+            },
+            {
+                "name": "Polio",
+                "value": 536501
+            },
+            {
+                "name": "Rabies",
+                "value": 931079
+            },
+            {
+                "name": "Tuberculosis",
+                "value": 450662
+            },
+            {
+                "name": "Zika",
+                "value": 380658
+            }
+        ]
+    },
+    {
+        "label": "China",
+        "diseases": [
+            {
+                "name": "Alzheimer's Disease",
+                "value": 902671
+            },
+            {
+                "name": "Asthma",
+                "value": 928107
+            },
+            {
+                "name": "COVID-19",
+                "value": 97837
+            },
+            {
+                "name": "Cancer",
+                "value": 479454
+            },
+            {
+                "name": "Cholera",
+                "value": 273961
+            },
+            {
+                "name": "Dengue",
+                "value": 342208
+            },
+            {
+                "name": "Diabetes",
+                "value": 958454
+            },
+            {
+                "name": "Ebola",
+                "value": 400164
+            },
+            {
+                "name": "HIV/AIDS",
+                "value": 669137
+            },
+            {
+                "name": "Hepatitis",
+                "value": 857076
+            },
+            {
+                "name": "Hypertension",
+                "value": 960991
+            },
+            {
+                "name": "Influenza",
+                "value": 700922
+            },
+            {
+                "name": "Leprosy",
+                "value": 293210
+            },
+            {
+                "name": "Malaria",
+                "value": 594926
+            },
+            {
+                "name": "Measles",
+                "value": 462961
+            },
+            {
+                "name": "Parkinson's Disease",
+                "value": 895422
+            },
+            {
+                "name": "Polio",
+                "value": 273609
+            },
+            {
+                "name": "Rabies",
+                "value": 187778
+            },
+            {
+                "name": "Tuberculosis",
+                "value": 704767
+            },
+            {
+                "name": "Zika",
+                "value": 747962
+            }
+        ]
+    },
+    {
+        "label": "South Africa",
+        "diseases": [
+            {
+                "name": "Alzheimer's Disease",
+                "value": 475067
+            },
+            {
+                "name": "Asthma",
+                "value": 381644
+            },
+            {
+                "name": "COVID-19",
+                "value": 277789
+            },
+            {
+                "name": "Cancer",
+                "value": 636681
+            },
+            {
+                "name": "Cholera",
+                "value": 74316
+            },
+            {
+                "name": "Dengue",
+                "value": 31531
+            },
+            {
+                "name": "Diabetes",
+                "value": 679226
+            },
+            {
+                "name": "Ebola",
+                "value": 635925
+            },
+            {
+                "name": "HIV/AIDS",
+                "value": 680928
+            },
+            {
+                "name": "Hepatitis",
+                "value": 105270
+            },
+            {
+                "name": "Hypertension",
+                "value": 558295
+            },
+            {
+                "name": "Influenza",
+                "value": 668428
+            },
+            {
+                "name": "Leprosy",
+                "value": 53013
+            },
+            {
+                "name": "Malaria",
+                "value": 78504
+            },
+            {
+                "name": "Measles",
+                "value": 460752
+            },
+            {
+                "name": "Parkinson's Disease",
+                "value": 477360
+            },
+            {
+                "name": "Polio",
+                "value": 12219
+            },
+            {
+                "name": "Rabies",
+                "value": 998854
+            },
+            {
+                "name": "Tuberculosis",
+                "value": 57951
+            },
+            {
+                "name": "Zika",
+                "value": 515147
+            }
+        ]
+    },
+    {
+        "label": "Nigeria",
+        "diseases": [
+            {
+                "name": "Alzheimer's Disease",
+                "value": 758638
+            },
+            {
+                "name": "Asthma",
+                "value": 581378
+            },
+            {
+                "name": "COVID-19",
+                "value": 829855
+            },
+            {
+                "name": "Cancer",
+                "value": 588959
+            },
+            {
+                "name": "Cholera",
+                "value": 455322
+            },
+            {
+                "name": "Dengue",
+                "value": 252216
+            },
+            {
+                "name": "Diabetes",
+                "value": 350873
+            },
+            {
+                "name": "Ebola",
+                "value": 43833
+            },
+            {
+                "name": "HIV/AIDS",
+                "value": 710156
+            },
+            {
+                "name": "Hepatitis",
+                "value": 660458
+            },
+            {
+                "name": "Hypertension",
+                "value": 995203
+            },
+            {
+                "name": "Influenza",
+                "value": 985040
+            },
+            {
+                "name": "Leprosy",
+                "value": 912132
+            },
+            {
+                "name": "Malaria",
+                "value": 996502
+            },
+            {
+                "name": "Measles",
+                "value": 60050
+            },
+            {
+                "name": "Parkinson's Disease",
+                "value": 915534
+            },
+            {
+                "name": "Polio",
+                "value": 694659
+            },
+            {
+                "name": "Rabies",
+                "value": 204089
+            },
+            {
+                "name": "Tuberculosis",
+                "value": 159151
+            },
+            {
+                "name": "Zika",
+                "value": 233562
+            }
+        ]
+    },
+    {
+        "label": "Brazil",
+        "diseases": [
+            {
+                "name": "Alzheimer's Disease",
+                "value": 6649
+            },
+            {
+                "name": "Asthma",
+                "value": 109614
+            },
+            {
+                "name": "COVID-19",
+                "value": 757820
+            },
+            {
+                "name": "Cancer",
+                "value": 143788
+            },
+            {
+                "name": "Cholera",
+                "value": 565025
+            },
+            {
+                "name": "Dengue",
+                "value": 50977
+            },
+            {
+                "name": "Diabetes",
+                "value": 720904
+            },
+            {
+                "name": "Ebola",
+                "value": 108317
+            },
+            {
+                "name": "HIV/AIDS",
+                "value": 90715
+            },
+            {
+                "name": "Hepatitis",
+                "value": 249268
+            },
+            {
+                "name": "Hypertension",
+                "value": 523020
+            },
+            {
+                "name": "Influenza",
+                "value": 232886
+            },
+            {
+                "name": "Leprosy",
+                "value": 856359
+            },
+            {
+                "name": "Malaria",
+                "value": 90753
+            },
+            {
+                "name": "Measles",
+                "value": 688672
+            },
+            {
+                "name": "Parkinson's Disease",
+                "value": 141000
+            },
+            {
+                "name": "Polio",
+                "value": 720683
+            },
+            {
+                "name": "Rabies",
+                "value": 724090
+            },
+            {
+                "name": "Tuberculosis",
+                "value": 67581
+            },
+            {
+                "name": "Zika",
+                "value": 475377
+            }
+        ]
+    },
+    {
+        "label": "Japan",
+        "diseases": [
+            {
+                "name": "Alzheimer's Disease",
+                "value": 637471
+            },
+            {
+                "name": "Asthma",
+                "value": 325266
+            },
+            {
+                "name": "COVID-19",
+                "value": 125221
+            },
+            {
+                "name": "Cancer",
+                "value": 15683
+            },
+            {
+                "name": "Cholera",
+                "value": 978127
+            },
+            {
+                "name": "Dengue",
+                "value": 334122
+            },
+            {
+                "name": "Diabetes",
+                "value": 738639
+            },
+            {
+                "name": "Ebola",
+                "value": 446456
+            },
+            {
+                "name": "HIV/AIDS",
+                "value": 37529
+            },
+            {
+                "name": "Hepatitis",
+                "value": 2395
+            },
+            {
+                "name": "Hypertension",
+                "value": 565187
+            },
+            {
+                "name": "Influenza",
+                "value": 993017
+            },
+            {
+                "name": "Leprosy",
+                "value": 529178
+            },
+            {
+                "name": "Malaria",
+                "value": 707675
+            },
+            {
+                "name": "Measles",
+                "value": 761164
+            },
+            {
+                "name": "Parkinson's Disease",
+                "value": 502070
+            },
+            {
+                "name": "Polio",
+                "value": 900337
+            },
+            {
+                "name": "Rabies",
+                "value": 652229
+            },
+            {
+                "name": "Tuberculosis",
+                "value": 829138
+            },
+            {
+                "name": "Zika",
+                "value": 386702
+            }
+        ]
+    },
+    {
+        "label": "Italy",
+        "diseases": [
+            {
+                "name": "Alzheimer's Disease",
+                "value": 618170
+            },
+            {
+                "name": "Asthma",
+                "value": 129493
+            },
+            {
+                "name": "COVID-19",
+                "value": 648456
+            },
+            {
+                "name": "Cancer",
+                "value": 993292
+            },
+            {
+                "name": "Cholera",
+                "value": 978434
+            },
+            {
+                "name": "Dengue",
+                "value": 424808
+            },
+            {
+                "name": "Diabetes",
+                "value": 201501
+            },
+            {
+                "name": "Ebola",
+                "value": 64749
+            },
+            {
+                "name": "HIV/AIDS",
+                "value": 323614
+            },
+            {
+                "name": "Hepatitis",
+                "value": 274430
+            },
+            {
+                "name": "Hypertension",
+                "value": 355969
+            },
+            {
+                "name": "Influenza",
+                "value": 26465
+            },
+            {
+                "name": "Leprosy",
+                "value": 978391
+            },
+            {
+                "name": "Malaria",
+                "value": 819486
+            },
+            {
+                "name": "Measles",
+                "value": 449726
+            },
+            {
+                "name": "Parkinson's Disease",
+                "value": 252895
+            },
+            {
+                "name": "Polio",
+                "value": 88401
+            },
+            {
+                "name": "Rabies",
+                "value": 866777
+            },
+            {
+                "name": "Tuberculosis",
+                "value": 513618
+            },
+            {
+                "name": "Zika",
+                "value": 108708
+            }
+        ]
+    },
+    {
+        "label": "Germany",
+        "diseases": [
+            {
+                "name": "Alzheimer's Disease",
+                "value": 723889
+            },
+            {
+                "name": "Asthma",
+                "value": 525992
+            },
+            {
+                "name": "COVID-19",
+                "value": 323952
+            },
+            {
+                "name": "Cancer",
+                "value": 184399
+            },
+            {
+                "name": "Cholera",
+                "value": 227337
+            },
+            {
+                "name": "Dengue",
+                "value": 216978
+            },
+            {
+                "name": "Diabetes",
+                "value": 768957
+            },
+            {
+                "name": "Ebola",
+                "value": 254900
+            },
+            {
+                "name": "HIV/AIDS",
+                "value": 314737
+            },
+            {
+                "name": "Hepatitis",
+                "value": 171972
+            },
+            {
+                "name": "Hypertension",
+                "value": 837243
+            },
+            {
+                "name": "Influenza",
+                "value": 606446
+            },
+            {
+                "name": "Leprosy",
+                "value": 646790
+            },
+            {
+                "name": "Malaria",
+                "value": 360250
+            },
+            {
+                "name": "Measles",
+                "value": 117632
+            },
+            {
+                "name": "Parkinson's Disease",
+                "value": 881036
+            },
+            {
+                "name": "Polio",
+                "value": 849272
+            },
+            {
+                "name": "Rabies",
+                "value": 958017
+            },
+            {
+                "name": "Tuberculosis",
+                "value": 668244
+            },
+            {
+                "name": "Zika",
+                "value": 810416
+            }
+        ]
+    },
+    {
+        "label": "Mexico",
+        "diseases": [
+            {
+                "name": "Alzheimer's Disease",
+                "value": 351053
+            },
+            {
+                "name": "Asthma",
+                "value": 976829
+            },
+            {
+                "name": "COVID-19",
+                "value": 162279
+            },
+            {
+                "name": "Cancer",
+                "value": 817084
+            },
+            {
+                "name": "Cholera",
+                "value": 240532
+            },
+            {
+                "name": "Dengue",
+                "value": 888725
+            },
+            {
+                "name": "Diabetes",
+                "value": 730863
+            },
+            {
+                "name": "Ebola",
+                "value": 596252
+            },
+            {
+                "name": "HIV/AIDS",
+                "value": 976534
+            },
+            {
+                "name": "Hepatitis",
+                "value": 404469
+            },
+            {
+                "name": "Hypertension",
+                "value": 895416
+            },
+            {
+                "name": "Influenza",
+                "value": 303914
+            },
+            {
+                "name": "Leprosy",
+                "value": 114889
+            },
+            {
+                "name": "Malaria",
+                "value": 146864
+            },
+            {
+                "name": "Measles",
+                "value": 531970
+            },
+            {
+                "name": "Parkinson's Disease",
+                "value": 173722
+            },
+            {
+                "name": "Polio",
+                "value": 109822
+            },
+            {
+                "name": "Rabies",
+                "value": 847848
+            },
+            {
+                "name": "Tuberculosis",
+                "value": 425532
+            },
+            {
+                "name": "Zika",
+                "value": 208672
+            }
+        ]
+    },
+    {
+        "label": "USA",
+        "diseases": [
+            {
+                "name": "Alzheimer's Disease",
+                "value": 424229
+            },
+            {
+                "name": "Asthma",
+                "value": 286259
+            },
+            {
+                "name": "COVID-19",
+                "value": 256873
+            },
+            {
+                "name": "Cancer",
+                "value": 373706
+            },
+            {
+                "name": "Cholera",
+                "value": 530529
+            },
+            {
+                "name": "Dengue",
+                "value": 80108
+            },
+            {
+                "name": "Diabetes",
+                "value": 545394
+            },
+            {
+                "name": "Ebola",
+                "value": 683640
+            },
+            {
+                "name": "HIV/AIDS",
+                "value": 120143
+            },
+            {
+                "name": "Hepatitis",
+                "value": 555784
+            },
+            {
+                "name": "Hypertension",
+                "value": 111469
+            },
+            {
+                "name": "Influenza",
+                "value": 603157
+            },
+            {
+                "name": "Leprosy",
+                "value": 531152
+            },
+            {
+                "name": "Malaria",
+                "value": 17612
+            },
+            {
+                "name": "Measles",
+                "value": 779107
+            },
+            {
+                "name": "Parkinson's Disease",
+                "value": 130693
+            },
+            {
+                "name": "Polio",
+                "value": 791531
+            },
+            {
+                "name": "Rabies",
+                "value": 189420
+            },
+            {
+                "name": "Tuberculosis",
+                "value": 532163
+            },
+            {
+                "name": "Zika",
+                "value": 79940
+            }
+        ]
+    },
+    {
+        "label": "Indonesia",
+        "diseases": [
+            {
+                "name": "Alzheimer's Disease",
+                "value": 932291
+            },
+            {
+                "name": "Asthma",
+                "value": 515052
+            },
+            {
+                "name": "COVID-19",
+                "value": 512536
+            },
+            {
+                "name": "Cancer",
+                "value": 770025
+            },
+            {
+                "name": "Cholera",
+                "value": 785405
+            },
+            {
+                "name": "Dengue",
+                "value": 547883
+            },
+            {
+                "name": "Diabetes",
+                "value": 945606
+            },
+            {
+                "name": "Ebola",
+                "value": 559733
+            },
+            {
+                "name": "HIV/AIDS",
+                "value": 740823
+            },
+            {
+                "name": "Hepatitis",
+                "value": 744417
+            },
+            {
+                "name": "Hypertension",
+                "value": 873977
+            },
+            {
+                "name": "Influenza",
+                "value": 770273
+            },
+            {
+                "name": "Leprosy",
+                "value": 217388
+            },
+            {
+                "name": "Malaria",
+                "value": 733978
+            },
+            {
+                "name": "Measles",
+                "value": 88775
+            },
+            {
+                "name": "Parkinson's Disease",
+                "value": 556022
+            },
+            {
+                "name": "Polio",
+                "value": 328761
+            },
+            {
+                "name": "Rabies",
+                "value": 659333
+            },
+            {
+                "name": "Tuberculosis",
+                "value": 798195
+            },
+            {
+                "name": "Zika",
+                "value": 404401
+            }
+        ]
+    },
+    {
+        "label": "Australia",
+        "diseases": [
+            {
+                "name": "Alzheimer's Disease",
+                "value": 633404
+            },
+            {
+                "name": "Asthma",
+                "value": 952984
+            },
+            {
+                "name": "COVID-19",
+                "value": 593660
+            },
+            {
+                "name": "Cancer",
+                "value": 153468
+            },
+            {
+                "name": "Cholera",
+                "value": 298050
+            },
+            {
+                "name": "Dengue",
+                "value": 735759
+            },
+            {
+                "name": "Diabetes",
+                "value": 758479
+            },
+            {
+                "name": "Ebola",
+                "value": 962142
+            },
+            {
+                "name": "HIV/AIDS",
+                "value": 588823
+            },
+            {
+                "name": "Hepatitis",
+                "value": 111827
+            },
+            {
+                "name": "Hypertension",
+                "value": 273680
+            },
+            {
+                "name": "Influenza",
+                "value": 503602
+            },
+            {
+                "name": "Leprosy",
+                "value": 336663
+            },
+            {
+                "name": "Malaria",
+                "value": 754536
+            },
+            {
+                "name": "Measles",
+                "value": 205908
+            },
+            {
+                "name": "Parkinson's Disease",
+                "value": 210398
+            },
+            {
+                "name": "Polio",
+                "value": 213114
+            },
+            {
+                "name": "Rabies",
+                "value": 643053
+            },
+            {
+                "name": "Tuberculosis",
+                "value": 247322
+            },
+            {
+                "name": "Zika",
+                "value": 78864
+            }
+        ]
+    },
+    {
+        "label": "Russia",
+        "diseases": [
+            {
+                "name": "Alzheimer's Disease",
+                "value": 547683
+            },
+            {
+                "name": "Asthma",
+                "value": 657261
+            },
+            {
+                "name": "COVID-19",
+                "value": 504093
+            },
+            {
+                "name": "Cancer",
+                "value": 94871
+            },
+            {
+                "name": "Cholera",
+                "value": 335276
+            },
+            {
+                "name": "Dengue",
+                "value": 834721
+            },
+            {
+                "name": "Diabetes",
+                "value": 119492
+            },
+            {
+                "name": "Ebola",
+                "value": 81148
+            },
+            {
+                "name": "HIV/AIDS",
+                "value": 888887
+            },
+            {
+                "name": "Hepatitis",
+                "value": 629228
+            },
+            {
+                "name": "Hypertension",
+                "value": 55339
+            },
+            {
+                "name": "Influenza",
+                "value": 864212
+            },
+            {
+                "name": "Leprosy",
+                "value": 437028
+            },
+            {
+                "name": "Malaria",
+                "value": 226073
+            },
+            {
+                "name": "Measles",
+                "value": 996990
+            },
+            {
+                "name": "Parkinson's Disease",
+                "value": 958308
+            },
+            {
+                "name": "Polio",
+                "value": 952925
+            },
+            {
+                "name": "Rabies",
+                "value": 50377
+            },
+            {
+                "name": "Tuberculosis",
+                "value": 153124
+            },
+            {
+                "name": "Zika",
+                "value": 75737
+            }
+        ]
+    },
+    {
+        "label": "India",
+        "diseases": [
+            {
+                "name": "Alzheimer's Disease",
+                "value": 182194
+            },
+            {
+                "name": "Asthma",
+                "value": 493684
+            },
+            {
+                "name": "COVID-19",
+                "value": 888018
+            },
+            {
+                "name": "Cancer",
+                "value": 397905
+            },
+            {
+                "name": "Cholera",
+                "value": 146238
+            },
+            {
+                "name": "Dengue",
+                "value": 614139
+            },
+            {
+                "name": "Diabetes",
+                "value": 209128
+            },
+            {
+                "name": "Ebola",
+                "value": 66276
+            },
+            {
+                "name": "HIV/AIDS",
+                "value": 622718
+            },
+            {
+                "name": "Hepatitis",
+                "value": 530635
+            },
+            {
+                "name": "Hypertension",
+                "value": 652095
+            },
+            {
+                "name": "Influenza",
+                "value": 800353
+            },
+            {
+                "name": "Leprosy",
+                "value": 539892
+            },
+            {
+                "name": "Malaria",
+                "value": 5716
+            },
+            {
+                "name": "Measles",
+                "value": 315783
+            },
+            {
+                "name": "Parkinson's Disease",
+                "value": 740528
+            },
+            {
+                "name": "Polio",
+                "value": 90149
+            },
+            {
+                "name": "Rabies",
+                "value": 896637
+            },
+            {
+                "name": "Tuberculosis",
+                "value": 687924
+            },
+            {
+                "name": "Zika",
+                "value": 980776
+            }
+        ]
+    }
+]

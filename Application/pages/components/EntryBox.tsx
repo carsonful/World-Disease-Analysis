@@ -21,7 +21,7 @@ export default function EntryBox() {
             setYear('Invalid year please try again!')
             return;
         }
-        //const result = await submitYear(year);
+        const result = await submitYear(year);
         console.log('Year:', year);
         setYear('');
         navigate('/analysis');
