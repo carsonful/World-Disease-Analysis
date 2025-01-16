@@ -6,8 +6,17 @@ Global Health Analysis is a tool to compare populations affected by certain dise
 ## Showcase
 
 ### Home Page
+![Home](https://github.com/user-attachments/assets/767950f8-5707-4143-9541-822a7cd31bf8)
 
 ### Graphs
+
+![GitHub - Scatter Plot](https://github.com/user-attachments/assets/37b5cf33-eb32-41a4-8ddd-03e707552916)
+![GitHub - Bar Graph](https://github.com/user-attachments/assets/66654c96-161b-4a2c-b959-6fc335ef5ba2
+
+### Visuals
+
+
+https://github.com/user-attachments/assets/88cfeff4-3080-4a73-b03e-78d8226c062c
 
 
 Data Set: https://www.kaggle.com/datasets/malaiarasugraj/global-health-statistics/data
@@ -40,6 +49,12 @@ Then in a seperate terminal run the command
 node server.js
 ```
 This will allow the api to connect with the front-end and allow the main.exe file to be ran on user input.
+
+## References
+
+- Kaggle => Data Set: https://www.kaggle.com/datasets/malaiarasugraj/global-health-statistics/data
+- Chart.js => https://www.chartjs.org/docs/latest/
+- Node.js => https://nodejs.org/en/download
 
 
 ## Contributing
