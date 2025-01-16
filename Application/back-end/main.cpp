@@ -16,30 +16,15 @@ int main(int argc, char *argv[]){
     // ./a 2016 
 
     countryHealth frame;
-    if(argv[1] == ""){return -1;}
+    try{
+        if(argv[1] == ""){return -1;}
+    } catch (...){
+        cerr << "No Input" << endl;
+        return -1;
+    }
     cout << argv[1] << endl;; // Going to be the year 
-
     frame.loadData(string(argv[1]));
-    // Do something with the loaded data such as json, csv, or txt that we can read in JS/TS
-
-    string popAffected;
     frame.writeData();
-    //frame.printGraph();
-
-    
-    
-
-
-
-
-
-
-
-
-
-
-
-
 
     return 0; 
 }

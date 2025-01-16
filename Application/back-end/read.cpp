@@ -9,10 +9,6 @@ using namespace std;
 
 countryHealth::countryHealth(){
     
-    // idk do constructor things here
-
-
-
 }
 
 void countryHealth::loadData(string year) {
@@ -31,11 +27,6 @@ void countryHealth::loadData(string year) {
         getline(ss, disease, ',');   // Disease Name
         
         // Skip if not the requested year
-        if (yearValue != year) {
-            continue;
-        }
-        
-        // Add year to the information vector since we're no longer using it as a key
         rowData.push_back(yearValue);
         
         // Read remaining values into vector
@@ -44,23 +35,15 @@ void countryHealth::loadData(string year) {
             rowData.push_back(value);
         }
         
-        // Store in the new data structure
-        // data[country][disease] = rowData
         data[country][disease] = rowData;
     }
-    
-    cout << "Done Reading!" << endl;
 }
 
-
-// placeholder functions probably won't need later. 
 
 
 
 void countryHealth::writeData() {
     string filePath = "./data.json";
-    // back-end\data.json
-    // "../front-end/pages/data.json"
     ofstream outFile(filePath, ios::trunc);
     
     if (!outFile.is_open()) {
@@ -93,13 +76,11 @@ void countryHealth::writeData() {
             }
             firstDisease = false;
             
-            // Get the population affected value (index 9 in the CSV format)
+            // Get the population affected value 
             int long value = -1000;
             try {
-                if (diseasePair.second.size() > 9) {
-                    //cout << diseasePair.second[7] << endl;
+                if (diseasePair.second.size() > 7) {
                     value = stoi(diseasePair.second[7]);
-                    //cout << value << endl;
                 }
             } catch (...) {
                 // Keep default value if conversion fails
@@ -139,11 +120,4 @@ void countryHealth::printGraph() {
         cout << endl;
     }
 }
-pair<string, set<pair<string, int>>> countryHealth::sortData(){
 
-    
-
-
-
-
-}
