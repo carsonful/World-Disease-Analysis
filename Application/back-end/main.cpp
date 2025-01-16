@@ -15,16 +15,16 @@ int main(int argc, char *argv[]){
     // ./a {argument (year) passed}
     // ./a 2016 
 
-    countryHealth data;
+    countryHealth frame;
     if(argv[1] == ""){return -1;}
     cout << argv[1] << endl;; // Going to be the year 
 
-    data.loadData(string(argv[1]));
+    frame.loadData(string(argv[1]));
     // Do something with the loaded data such as json, csv, or txt that we can read in JS/TS
 
     string popAffected;
-    data.writeData(data.getTotalDeaths(popAffected));
-    //data.printGraph();
+    frame.writeData();
+    //frame.printGraph();
 
     
     

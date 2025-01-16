@@ -15,7 +15,7 @@ app.use(express.json());
 // server.js
 app.post('/run', (req, res) => {
     const { year } = req.body;
-    const exePath = path.join(__dirname, 'back-end/main.exe');
+    const exePath = path.join(__dirname, 'Application/back-end/main.exe');
     
     console.log('Received year:', year); // Log the received year
     
