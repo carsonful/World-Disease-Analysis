@@ -1,4 +1,4 @@
-# Global Health Analysis
+# Global Health Analysis (WIP)
 
 Global Health Analysis is a tool to compare populations affected by certain diseases over the past 24 years. The different type of diseases include Alzheimer's, Asthma, COVID-19, Cancer, Cholera, Dengue, Diabetes, Ebola, HIV/AIDS, Hepatitis, Hypertension, Influenza, Leprosy, Malaria, Measles, Parkinson's, Polio, Rabies, Tuberculosis, Zika.
 
@@ -23,12 +23,18 @@ https://github.com/user-attachments/assets/88cfeff4-3080-4a73-b03e-78d8226c062c
 Data Set: https://www.kaggle.com/datasets/malaiarasugraj/global-health-statistics/data
 
 ## Installation
+Clone the repository to a directory of your choice.
+```bash
+git clone (link)
+```
 
-Use the package manager [npm](https://nodejs.org/en) to install Node.js.
-
+Use the package manager [npm](https://nodejs.org/en) to install the packages used in this program.
+**[VITE](https://vite.dev/) MUST BE INSTALLED**
 ```bash
 npm install
 ```
+
+
 You will also need some sort of gcc/mingw C++ compiler which can be found [here](https://www.mingw-w64.org/downloads/).
 
 Change your directory to the folder that contains the C++ code and compile the main function. Flag the compiled file with the out file being called main.
