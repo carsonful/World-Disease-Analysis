@@ -13,9 +13,9 @@ import {
   Interaction
 } from "chart.js";
 
-import data from '../back-end/data.json';
-import './Analysis.css';
-
+import data from '../back-end/data.json'; // data used in the graphs
+import './Analysis.css'; // CSS for background of page.
+// Chart JS attributes
 ChartJS.register(
   CategoryScale,
   LinearScale,
@@ -28,7 +28,7 @@ ChartJS.register(
 );
 
 export default function Analysis() {
-  const [chartData, setChartData] = useState<any>(null);
+  const [chartData, setChartData] = useState<any>(null); // create chart types
   const [chartType, setChartType] = useState('line');
   const chartRef = useRef<any>(null);
 
@@ -49,27 +49,27 @@ export default function Analysis() {
         display: false,
         pointRadius: 3.5,
         hidden: true,
-
+        // chart attributes ^
       };
     });
 
-    setChartData({
+    setChartData({ // set labels
       labels: countryLabels,
       datasets: datasets
     });
   }, []);
 
-  useEffect(() => {
+  useEffect(() => { // create new charts on chance of refresh
     if (chartRef.current && chartRef.current.chartInstance) {
       chartRef.current.chartInstance.destroy();
     }
   }, [chartType]);
 
-  if (!chartData) {
+  if (!chartData) { // if there is no chart data pivot loading screen.
     return <div>Loading...</div>;
   }
 
-  const options = {
+  const options = { // chart config
     indexAxis: 'y' as const, // This makes the chart horizontal
     responsive: true,
     scales: {
