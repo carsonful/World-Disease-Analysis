@@ -11,7 +11,8 @@ Global Health Analysis is a tool to compare populations affected by certain dise
 ### Graphs
 
 ![GitHub - Scatter Plot](https://github.com/user-attachments/assets/37b5cf33-eb32-41a4-8ddd-03e707552916)
-![GitHub - Bar Graph](https://github.com/user-attachments/assets/66654c96-161b-4a2c-b959-6fc335ef5ba2
+
+![GitHub - Bar Graph](https://github.com/user-attachments/assets/66654c96-161b-4a2c-b959-6fc335ef5ba2)
 
 ### Visuals
 
