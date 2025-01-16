@@ -4,6 +4,7 @@
 #include <unordered_map>
 #include <vector>
 #include <string>
+#include <set>
 using namespace std;
 
 class countryHealth{
@@ -29,10 +30,10 @@ public:
 
 
     // placeholder functions probably won't need later. 
-    void getCommonDeaths(string disease);
+    vector<pair<string, int>> getTotalDeaths(string& diseaseTotal);
 
 
-
+    pair<string, set<pair<string, int>>> sortData();
 
     void writeData();
 
